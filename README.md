@@ -1,0 +1,2 @@
+# Freqazone-
+Solution through frequency 
